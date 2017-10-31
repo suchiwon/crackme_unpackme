@@ -1,0 +1,19 @@
+------------ Duelist's Crackme #2 --------------
+
+Hi there. This is my second crackme, and it will
+be much harder than the first one, for newbies,
+since this time i will add keyfiles to the mix,
+and you'll need some knowledge of the ascii table
+to solve it.
+
+I would like to greet tC because i got the idea
+for one protection inside this crackme while
+cracking a crackme coded by him using Delphi.
+
+Please send me your name/keyfile to my email at
+"duelist@beer.com", first 2 people will get the
+crackme's source...
+
+------------ Duelist's Crackme #2 --------------
+		
+					   [eof]

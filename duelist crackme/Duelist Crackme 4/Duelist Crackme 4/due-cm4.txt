@@ -1,0 +1,35 @@
+------------ Duelist's Crackme #4 --------------
+
+Hi there. This is now my fourth crackme, let's
+see if i make this one easier than the previous.
+This time, and from now on, i will define basic
+objectives (tasks) which must be achieved in
+order to complete the crackme (they may help you
+in your task):
+
+  *  Locate the algorithm and related things
+     (i.e. tables used inside the algo)
+  *  Using a programming language of your
+     preference, code a keygen for the algo
+
+I know the objectives are kinda obvious, but i
+make crackmes, not for newbies, but i hope them
+to learn something with me :) Heh, after about
+15minutes of coding an algo i sudently looked at
+it and i realized "fuck, no one will be able to
+make a kgen for this shit!" because i was using
+big tables and the algo was about 50 instructions
+long... BORING!
+
+Please send me your keygen to my email at
+"duelist@beer.com", first 2 people will get the
+crackme's source... (i also accept name/serial,
+but the goal is a keygen :P)
+
+I hope you enjoy this one as much as i enjoyed
+coding it, and a last advice for medium/expert
+crackers: this algo is a VERY simple one. l8r!
+
+------------ Duelist's Crackme #4 --------------
+		
+					   [eof]

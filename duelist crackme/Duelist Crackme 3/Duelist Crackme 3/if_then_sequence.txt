@@ -1,0 +1,196 @@
+
+		if current_string[14].to_i == 1 then
+			total_sum = resource_ids[3]*
+			data_array[counter]*counter + total_sum
+			puts "Resource ID: " + resource_ids[3].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[16].to_i == 1 then
+			total_sum = resource_ids[1]*
+			data_array[counter]*counter + total_sum
+			puts "Resource ID: " + resource_ids[1].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[15].to_i == 1 then
+			total_sum = resource_ids[2]*
+			data_array[counter]*counter + total_sum
+			puts "Resource ID: " + resource_ids[2].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[8].to_i == 1 then
+			total_sum = resource_ids[9]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[9].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[2].to_i == 1 then
+			total_sum = resource_ids[15]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[15].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[12].to_i == 1 then
+			total_sum = resource_ids[5]*
+			data_array[counter]*counter + total_sum
+			puts "Resource ID: " + resource_ids[5].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[10].to_i == 1 then
+			total_sum = resource_ids[7]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[7].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[13].to_i == 1 then
+			total_sum = resource_ids[4]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[4].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[0].to_i == 1 then
+			total_sum = resource_ids[17]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[17].to_s
+			puts "Data Array: " + data_array[counter].to_s
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[11].to_i == 1 then
+			total_sum = resource_ids[6]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[6].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[9].to_i == 1 then
+			total_sum = resource_ids[8]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[8].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[7].to_i == 1 then
+			total_sum = resource_ids[10]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[10].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[6].to_i == 1 then
+			total_sum = resource_ids[11]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[11].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[5].to_i == 1 then
+			total_sum = resource_ids[12]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[12].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[4].to_i == 1 then
+			total_sum = resource_ids[13]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[13].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1	
+
+		if current_string[3].to_i == 1 then
+			total_sum = resource_ids[14]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[14].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[17].to_i == 1 then
+			total_sum = resource_ids[0]*
+			data_array[counter]*counter + total_sum	
+			puts "Resource ID: " + resource_ids[0].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s
+			puts
+		end
+
+		counter += 1
+
+		if current_string[1].to_i == 1 then
+			total_sum = resource_ids[16]*
+			data_array[counter]*counter + total_sum
+			puts "Resource ID: " + resource_ids[16].to_s(16)
+			puts "Data Array: " + data_array[counter].to_s(16)
+			puts "Counter: " + counter.to_s	
+			puts
+		end

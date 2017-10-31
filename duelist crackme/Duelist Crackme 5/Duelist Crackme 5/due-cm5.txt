@@ -1,0 +1,23 @@
+------------ Duelist's Crackme #5 ---------------
+
+Welcome to my Crackme #5, which has the goal to
+introduce newbie/medium crackers to the new
+generation of patchers that are growing: memory
+patchers or loaders.
+
+I really hope someone writes a tuturial on this
+one, including the source to the memory patcher,
+because that would be great for people learning.
+
+The reason why this one should be cracked using
+a memory patcher is because it is packed. It may
+be possible to unpack, tho distributing a whole
+exe file is not good.
+
+Your goal is to remove nag-message at startup,
+and make the status box say 'Registered'. The
+first goal is very easy, altho the second one
+should give newbies a little time to think about.
+
+------------ Duelist's Crackme #5 ---------------		
+					    [eof]

@@ -1,0 +1,14 @@
+------------ Duelist's Crackme #1 --------------
+
+Hi there. This is my first crackme, and it will
+be kinda easy, since it envolves no hard calcs.
+It's coded entirely in pure asm code, so you can
+understand it's little size.
+
+Please send me your name/solution and email to
+"duelist@beer.com", first 2 people will get the
+crackme's source...
+
+------------ Duelist's Crackme #1 --------------
+		
+					   [eof]

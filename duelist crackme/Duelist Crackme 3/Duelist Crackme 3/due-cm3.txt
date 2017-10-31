@@ -1,0 +1,32 @@
+------------ Duelist's Crackme #3 --------------
+
+Hi there. This is now my third crackme, this time
+i will like to greet some folks:
+
+  * Klefz for cracking and making tuts for my
+    previous crackmes (nice work dood!)
+  * tC for being a good friend and cracking my
+    previous crackmes
+  * E_Bliss for hosting my crackmes at his page
+    (and sometimes cracking them ;)
+
+For the all others: i wish you GOOD luck on this
+one, cause i think you will need it. Just one
+quick tip that you should remember when cracking
+schemes using checkboxes: use a resource editor
+to know the ID of each checkbox so you can know
+which one is being checked by the program (you
+know, they aren't checked in the right order,
+sometimes :PP). Anyway i was able to crack this
+one (heh) even without first knowing the solution
+(and i'm not joking), but it should give you some
+trouble, maybe it's better to calculate how many
+chances there are... (hummm... square of 18, nice!)
+
+Please send me your screenshot to my email at
+"duelist@beer.com", first 3 people will get the
+crackme's source...
+
+------------ Duelist's Crackme #3 --------------
+		
+					   [eof]

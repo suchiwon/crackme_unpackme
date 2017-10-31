@@ -1,0 +1,80 @@
+CHECKBOX POSITIONS
+(Gathered from PE Explorer)
+
+#   ID    POSITION
+---------------------
+#1  97    5,5
+#2  73    17,5
+#3  94    29,5
+#4  22    41,5
+#5  37    53,5
+#6  38    65,5
+#7  33    77,5
+#8  89    89,5
+#9  83    101,5
+#10 21    5,18
+#11 55    17,18
+#12 49    29,18
+#13 72    41,18
+#14 93    53,18
+#15 12    65,18
+#16 82    77,18
+#17 39    89,18
+#18 29    101,18
+
+CHECK ORDER
+
+#   ID   Box #
+--------------
+#1  22	 4
+#2  73   2
+#3  94   3
+#4  21   10
+#5  39   17
+#6  38   6
+#7  89   8
+#8  37   5
+#9  29   18
+#10 33   7
+#11 83   9
+#12 55   11
+#13 49   12
+#14 72   13
+#15 93   14
+#16 12   15
+#17 97   1
+#18 82   16
+
+INTERNAL DATA ARRAY
+
+DATA:004020FE data_array      db  16h
+DATA:004020FE
+DATA:004020FF                 db  49h ; I
+DATA:00402100                 db  5Eh ; ^
+DATA:00402101                 db  15h
+DATA:00402102                 db  27h ; '
+DATA:00402103                 db  26h ; &
+DATA:00402104                 db  21h ; !
+DATA:00402105                 db  25h ; %
+DATA:00402106                 db  1Dh
+DATA:00402107                 db  59h ; Y
+DATA:00402108                 db  53h ; S
+DATA:00402109                 db  37h ; 7
+DATA:0040210A                 db  31h ; 1
+DATA:0040210B                 db  48h ; H
+DATA:0040210C                 db  5Dh ; ]
+DATA:0040210D                 db  0Ch
+DATA:0040210E                 db  61h ; a
+DATA:0040210F                 db  52h ; R
+DATA:00402110                 db  4Dh ; M
+DATA:00402111                 db    0
+
+CHECKING EQUATION
+(All numbers are signed)
+
+total_sum x 0x4D = 0xF35466 <----Number to match for correct key
+
+for all resource IDs (counter goes from 0 - 18)
+resource_id x data_array[counter] x counter = total_sum
+
+0xF35466/0x4D = 0x328FE (207102 Decimal) <--Required total_sum
